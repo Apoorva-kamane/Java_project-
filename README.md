@@ -85,32 +85,59 @@ http://localhost:8080/EmployeeWebApp/
 pgsql
 Copy
 Edit
+
 EmployeeWebApp/
+
 ├── WebContent/
+
 │   ├── index.jsp
+
 │   ├── empadd.jsp
+
 │   ├── empupdate.jsp
+
 │   ├── empdelete.jsp
+
 │   ├── empdisplay.jsp
+
 │   ├── reports.jsp
+
 │   ├── report_form.jsp
+
 │   └── report_result.jsp
+
 ├── src/
+
 │   ├── com/
+
 │   ├── dao/
+
 │   │   └── EmployeeDAO.java
+
 │   ├── model/
+
 │   │   └── Employee.java
+
 │   └── servlet/
+
 │       ├── AddEmployeeServlet.java
+
 │       ├── UpdateEmployeeServlet.java
+
 │       ├── DeleteEmployeeServlet.java
+
 │       ├── DisplayEmployeeServlet.java
+
 │       ├── ReportServlet.java
+
 │       └── ReportCriteriaServlet.java
+
 └── WEB-INF/
+
     └── web.xml
+    
 🧪 Tools and Technologies
+
 Java (JDK 11+)
 
 JSP and Servlets
