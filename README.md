@@ -90,13 +90,13 @@ EmployeeWebApp/
 
 ├── WebContent/    
 │   ├── index.js   
-│   ├── empadd.jsp  
-│   ├── empupdate.jsp
-│   ├── empdelete.jsp
-│   ├── empdisplay.jsp
-│   ├── reports.jsp
-│   ├── report_form.jsp
-│   └── report_result.jsp
+│   ├── empadd.jsp     
+│   ├── empupdate.jsp  
+│   ├── empdelete.jsp  
+│   ├── empdisplay.jsp  
+│   ├── reports.jsp  
+│   ├── report_form.jsp  
+│   └── report_result.jsp  
 ├── src/
 │   ├── com/
 │   ├── dao/
