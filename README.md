@@ -97,21 +97,21 @@ EmployeeWebApp/
 │   ├── reports.jsp  
 │   ├── report_form.jsp  
 │   └── report_result.jsp  
-├── src/
-│   ├── com/
-│   ├── dao/
-│   │   └── EmployeeDAO.java
-│   ├── model/
-│   │   └── Employee.java
-│   └── servlet/
-│       ├── AddEmployeeServlet.java
-│       ├── UpdateEmployeeServlet.java
-│       ├── DeleteEmployeeServlet.java
-│       ├── DisplayEmployeeServlet.java
-│       ├── ReportServlet.java
-│       └── ReportCriteriaServlet.java
-└── WEB-INF/
-    └── web.xml
+├── src/  
+│   ├── com/  
+│   ├── dao/  
+│   │   └── EmployeeDAO.java  
+│   ├── model/  
+│   │   └── Employee.java  
+│   └── servlet/  
+│       ├── AddEmployeeServlet.java  
+│       ├── UpdateEmployeeServlet.java    
+│       ├── DeleteEmployeeServlet.java  
+│       ├── DisplayEmployeeServlet.java  
+│       ├── ReportServlet.java  
+│       └── ReportCriteriaServlet.java  
+└── WEB-INF/   
+    └── web.xml  
     
 🧪 Tools and Technologies
 
