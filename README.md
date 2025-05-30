@@ -88,10 +88,8 @@ Edit
 
 EmployeeWebApp/
 
-├── WebContent/
-
-│   ├── index.jsp
-
+├── WebContent/    
+│   ├── index.js   
 │   ├── empadd.jsp
 
 │   ├── empupdate.jsp
